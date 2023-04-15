@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+$primary: #374BA4;
+$warning: #F8D744;
+$dark: #212711;
+$danger: #DC4619;
+$success: #37B960;
+
+* {
+    font-family: 'Ubuntu';
+}
+
+svg {
+    font-size: xx-large;
+}
+
+@import "./node_modules/bootstrap/scss/bootstrap";
